@@ -14,3 +14,7 @@ fun main() {
         println("i = $i")
     }
 }
+
+fun newFunction() {
+    if(true){}
+}
